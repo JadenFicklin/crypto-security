@@ -1,0 +1,14 @@
+my cipher will associate a number with each of the letters in the alphabet spanning 1-26 but multiplied by 20 and spread backwards and then devided by 924
+spaces will be the "#" symbol
+
+for example 
+"hello" 
+
+would go from
+"8, 5, 12, 15, 15"
+to
+"160, 100, 240, 240, 300"
+to
+"300, 240, 240, 100, 160"
+to
+"0.3246753246753247, 0.2597402597402597, 0.2597402597402597, 0.1082251082251082, 0.1731601731601732"
